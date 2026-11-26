@@ -2,7 +2,7 @@
 
 **Atividade:** Machine Learning – Banco de Dados · **Professor:** Rodrigo Ramos Dornel · **Aluno:** Vitor
 
-Este trabalho usa uma **árvore de decisão do SQL Server Analysis Services** para prever quais alunos de uma academia fictícia (FitPlus) têm mais chance de **cancelar a matrícula**. O resultado vai para um painel no **Power BI**. O processo é o mesmo da aula de 19/08/2025, que treinou com a `vTargetMail` e previu na `ProspectiveBuyer`.
+Este trabalho usa uma **árvore de decisão do SQL Server Analysis Services** para prever quais alunos de uma academia fictícia (FitPlus) têm mais chance de **cancelar a matrícula**. O resultado vai para um painel no **Power BI**.
 
 | Pedido | O que foi feito |
 | --- | --- |
