@@ -1,0 +1,63 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.4.0/schema.json",
+  "name": "titulo2",
+  "position": {
+    "x": 20,
+    "y": 6,
+    "z": 13,
+    "width": 740,
+    "height": 74,
+    "tabOrder": 13
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "textStyle": {
+                      "fontSize": "28px",
+                      "fontWeight": "bold",
+                      "color": "#FFFFFF"
+                    },
+                    "value": "PREVISÃO DE CANCELAMENTO"
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "textStyle": {
+                      "fontSize": "12px",
+                      "color": "#2EC4B6"
+                    },
+                    "value": "Árvore de Decisão (SQL Server Analysis Services) aplicada em 500 alunos novos"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

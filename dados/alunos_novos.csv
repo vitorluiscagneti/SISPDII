@@ -1,0 +1,501 @@
+﻿AlunoID;Nome;Email;Sexo;Idade;Cidade;Plano;ValorMensal;MesesMatriculado;FrequenciaSemanal;DistanciaKm;PersonalTrainer;AulasColetivas;AtrasosPagamento;Avaliacao
+5001;Patrícia Oliveira;patricia.oliveira5001@exemplo.com;F;27;Viamão;Trimestral;109.90;11;3.3;14.6;Não;Não;0;4
+5002;Gustavo Pereira;gustavo.pereira5002@exemplo.com;M;35;Gravataí;Mensal;129.90;24;3.2;6.2;Não;Não;1;3
+5003;Renata Santos;renata.santos5003@exemplo.com;F;40;Gravataí;Mensal;129.90;33;3.6;10.1;Sim;Sim;1;4
+5004;Vitor Almeida;vitor.almeida5004@exemplo.com;M;31;Viamão;Mensal;129.90;31;2.7;6.6;Não;Não;2;3
+5005;Juliana Alves;juliana.alves5005@exemplo.com;F;43;Canoas;Mensal;129.90;14;3.1;10.5;Não;Sim;1;3
+5006;Aline Lopes;aline.lopes5006@exemplo.com;F;33;Viamão;Mensal;129.90;17;4.3;1.6;Não;Não;0;4
+5007;André Costa;andre.costa5007@exemplo.com;M;16;Canoas;Anual;89.90;21;3.5;7.2;Não;Sim;0;2
+5008;André Barbosa;andre.barbosa5008@exemplo.com;M;32;Porto Alegre;Anual;89.90;29;1.7;4.8;Não;Não;1;3
+5009;Ana Gomes;ana.gomes5009@exemplo.com;F;31;Canoas;Anual;89.90;3;6.0;2.0;Não;Não;2;3
+5010;Ana Santos;ana.santos5010@exemplo.com;F;39;Gravataí;Mensal;129.90;5;2.1;11.1;Sim;Não;0;2
+5011;Juliana Soares;juliana.soares5011@exemplo.com;F;20;Canoas;Mensal;129.90;20;2.6;8.0;Não;Sim;0;4
+5012;Amanda Santos;amanda.santos5012@exemplo.com;F;23;Novo Hamburgo;Trimestral;109.90;28;3.5;10.6;Não;Não;0;4
+5013;Carolina Lima;carolina.lima5013@exemplo.com;F;47;Novo Hamburgo;Anual;89.90;22;2.1;10.8;Não;Sim;0;5
+5014;João Lopes;joao.lopes5014@exemplo.com;M;38;Canoas;Trimestral;109.90;16;3.4;6.9;Sim;Não;0;3
+5015;Fernando Alves;fernando.alves5015@exemplo.com;M;37;Viamão;Trimestral;109.90;30;4.4;13.4;Sim;Não;0;5
+5016;Carlos Souza;carlos.souza5016@exemplo.com;M;42;Viamão;Mensal;129.90;18;4.3;3.9;Não;Sim;0;5
+5017;João Santos;joao.santos5017@exemplo.com;M;40;Viamão;Anual;89.90;27;1.9;1.0;Não;Sim;1;4
+5018;Lucas Lima;lucas.lima5018@exemplo.com;M;35;Novo Hamburgo;Mensal;129.90;6;2.7;8.9;Não;Sim;0;4
+5019;Bruno Silva;bruno.silva5019@exemplo.com;M;29;Viamão;Mensal;129.90;19;1.8;6.2;Não;Não;0;4
+5020;Isabela Gomes;isabela.gomes5020@exemplo.com;F;27;Viamão;Mensal;129.90;6;2.8;4.1;Não;Não;0;4
+5021;Vanessa Ribeiro;vanessa.ribeiro5021@exemplo.com;F;20;Porto Alegre;Anual;89.90;21;4.4;2.8;Não;Sim;2;4
+5022;Camila Rodrigues;camila.rodrigues5022@exemplo.com;F;23;Novo Hamburgo;Mensal;129.90;35;2.9;10.5;Não;Não;0;4
+5023;Vitor Vieira;vitor.vieira5023@exemplo.com;M;32;Canoas;Mensal;129.90;30;3.5;11.0;Não;Não;0;3
+5024;Daniel Almeida;daniel.almeida5024@exemplo.com;M;31;Gravataí;Mensal;129.90;17;2.9;3.5;Sim;Não;2;3
+5025;Débora Souza;debora.souza5025@exemplo.com;F;31;Canoas;Anual;89.90;13;2.6;4.7;Não;Não;1;3
+5026;Rafael Lopes;rafael.lopes5026@exemplo.com;M;27;Viamão;Anual;89.90;22;5.1;7.1;Não;Sim;0;4
+5027;Aline Fernandes;aline.fernandes5027@exemplo.com;F;24;Viamão;Mensal;129.90;30;2.9;5.2;Não;Não;0;4
+5028;Patrícia Costa;patricia.costa5028@exemplo.com;F;37;Porto Alegre;Trimestral;109.90;29;0.3;1.0;Não;Não;0;4
+5029;Juliana Ribeiro;juliana.ribeiro5029@exemplo.com;F;29;Novo Hamburgo;Anual;89.90;2;2.6;4.5;Não;Sim;0;4
+5030;Mateus Gomes;mateus.gomes5030@exemplo.com;M;34;Novo Hamburgo;Mensal;129.90;11;2.0;3.4;Não;Não;0;4
+5031;Gabriel Silva;gabriel.silva5031@exemplo.com;M;31;Porto Alegre;Trimestral;109.90;11;1.9;3.1;Não;Não;0;1
+5032;Bruno Vieira;bruno.vieira5032@exemplo.com;M;30;Canoas;Mensal;129.90;33;4.4;2.4;Não;Não;0;3
+5033;Bruna Almeida;bruna.almeida5033@exemplo.com;F;17;Viamão;Mensal;129.90;34;2.7;10.1;Não;Não;3;4
+5034;Isabela Lopes;isabela.lopes5034@exemplo.com;F;37;Novo Hamburgo;Anual;89.90;30;2.6;7.6;Não;Sim;2;3
+5035;Carlos Santos;carlos.santos5035@exemplo.com;M;32;Gravataí;Mensal;129.90;3;1.7;6.8;Sim;Sim;3;3
+5036;Patrícia Almeida;patricia.almeida5036@exemplo.com;F;23;Novo Hamburgo;Anual;89.90;1;2.6;8.0;Não;Não;0;3
+5037;Rafael Souza;rafael.souza5037@exemplo.com;M;16;Porto Alegre;Mensal;129.90;2;2.5;10.4;Não;Sim;3;2
+5038;João Almeida;joao.almeida5038@exemplo.com;M;16;Novo Hamburgo;Mensal;129.90;25;3.4;5.8;Não;Não;0;3
+5039;Isabela Vieira;isabela.vieira5039@exemplo.com;F;22;Porto Alegre;Trimestral;109.90;22;0.8;2.7;Não;Não;1;1
+5040;João Fernandes;joao.fernandes5040@exemplo.com;M;38;Novo Hamburgo;Mensal;129.90;23;3.9;8.2;Não;Sim;0;4
+5041;Mariana Silva;mariana.silva5041@exemplo.com;F;24;Canoas;Mensal;129.90;6;2.8;3.0;Sim;Não;1;3
+5042;Gustavo Silva;gustavo.silva5042@exemplo.com;M;39;Gravataí;Anual;89.90;28;1.0;6.9;Não;Sim;0;3
+5043;Ana Fernandes;ana.fernandes5043@exemplo.com;F;59;Gravataí;Trimestral;109.90;11;3.3;13.8;Não;Sim;0;4
+5044;Carlos Alves;carlos.alves5044@exemplo.com;M;42;Viamão;Mensal;129.90;34;6.0;14.8;Não;Sim;2;4
+5045;Bruna Carvalho;bruna.carvalho5045@exemplo.com;F;41;Viamão;Mensal;129.90;26;0.7;12.4;Sim;Não;1;5
+5046;Bruna Barbosa;bruna.barbosa5046@exemplo.com;F;26;Gravataí;Anual;89.90;4;3.2;13.7;Não;Não;0;4
+5047;Fernando Lima;fernando.lima5047@exemplo.com;M;26;Novo Hamburgo;Anual;89.90;31;2.5;7.3;Não;Não;0;4
+5048;Juliana Costa;juliana.costa5048@exemplo.com;F;41;Canoas;Mensal;129.90;7;1.6;7.8;Não;Sim;1;4
+5049;Juliana Fernandes;juliana.fernandes5049@exemplo.com;F;42;Canoas;Mensal;129.90;6;4.2;1.4;Não;Não;2;4
+5050;Eduardo Alves;eduardo.alves5050@exemplo.com;M;21;Canoas;Mensal;129.90;6;1.6;5.7;Não;Sim;2;3
+5051;Pedro Carvalho;pedro.carvalho5051@exemplo.com;M;46;Novo Hamburgo;Trimestral;109.90;1;5.0;1.0;Não;Sim;0;2
+5052;Aline Carvalho;aline.carvalho5052@exemplo.com;F;27;Viamão;Anual;89.90;9;3.8;3.0;Não;Não;3;3
+5053;Camila Lopes;camila.lopes5053@exemplo.com;F;38;Porto Alegre;Trimestral;109.90;4;3.7;9.1;Não;Não;0;4
+5054;Carlos Soares;carlos.soares5054@exemplo.com;M;31;Porto Alegre;Mensal;129.90;32;3.2;8.1;Sim;Não;0;3
+5055;Fernando Ribeiro;fernando.ribeiro5055@exemplo.com;M;35;Canoas;Anual;89.90;22;2.0;13.5;Não;Não;1;4
+5056;Mateus Carvalho;mateus.carvalho5056@exemplo.com;M;26;Canoas;Mensal;129.90;11;2.0;6.0;Sim;Não;0;3
+5057;Carlos Pereira;carlos.pereira5057@exemplo.com;M;24;Viamão;Anual;89.90;23;3.9;10.6;Sim;Não;2;3
+5058;André Costa;andre.costa5058@exemplo.com;M;18;Novo Hamburgo;Mensal;129.90;29;1.6;7.8;Não;Sim;1;5
+5059;Leonardo Rodrigues;leonardo.rodrigues5059@exemplo.com;M;26;Porto Alegre;Mensal;129.90;18;3.0;3.4;Não;Não;0;3
+5060;Ana Ribeiro;ana.ribeiro5060@exemplo.com;F;29;Novo Hamburgo;Mensal;129.90;22;3.6;8.3;Não;Sim;1;1
+5061;Thiago Santos;thiago.santos5061@exemplo.com;M;44;Porto Alegre;Mensal;129.90;12;3.2;6.4;Sim;Não;0;3
+5062;Diego Silva;diego.silva5062@exemplo.com;M;44;Porto Alegre;Mensal;129.90;19;1.5;6.4;Não;Sim;1;4
+5063;Gabriel Vieira;gabriel.vieira5063@exemplo.com;M;22;Gravataí;Anual;89.90;18;2.1;13.2;Não;Sim;0;3
+5064;Daniel Oliveira;daniel.oliveira5064@exemplo.com;M;29;Viamão;Mensal;129.90;36;2.1;13.4;Não;Não;2;5
+5065;Beatriz Santos;beatriz.santos5065@exemplo.com;F;35;Porto Alegre;Anual;89.90;19;2.4;8.0;Não;Não;0;4
+5066;João Ferreira;joao.ferreira5066@exemplo.com;M;19;Gravataí;Mensal;129.90;25;1.8;3.6;Não;Não;0;2
+5067;Fernando Rodrigues;fernando.rodrigues5067@exemplo.com;M;32;Gravataí;Mensal;129.90;13;4.8;7.8;Não;Não;0;4
+5068;Mariana Ribeiro;mariana.ribeiro5068@exemplo.com;F;16;Viamão;Mensal;129.90;14;0.3;12.1;Sim;Não;0;5
+5069;Aline Pereira;aline.pereira5069@exemplo.com;F;24;Gravataí;Trimestral;109.90;24;2.4;14.6;Não;Não;0;3
+5070;Marcelo Carvalho;marcelo.carvalho5070@exemplo.com;M;26;Gravataí;Trimestral;109.90;13;1.9;11.9;Sim;Sim;3;3
+5071;Beatriz Santos;beatriz.santos5071@exemplo.com;F;35;Viamão;Mensal;129.90;33;1.8;1.5;Não;Não;1;3
+5072;Mateus Gomes;mateus.gomes5072@exemplo.com;M;44;Novo Hamburgo;Mensal;129.90;29;2.3;5.0;Sim;Sim;4;5
+5073;Gabriela Oliveira;gabriela.oliveira5073@exemplo.com;F;36;Novo Hamburgo;Anual;89.90;6;1.9;10.6;Não;Não;1;3
+5074;Rodrigo Oliveira;rodrigo.oliveira5074@exemplo.com;M;26;Gravataí;Mensal;129.90;21;1.0;5.7;Não;Não;0;5
+5075;Isabela Martins;isabela.martins5075@exemplo.com;F;24;Novo Hamburgo;Anual;89.90;20;3.4;3.6;Não;Sim;1;5
+5076;Camila Barbosa;camila.barbosa5076@exemplo.com;F;36;Porto Alegre;Anual;89.90;15;4.7;7.4;Não;Não;0;5
+5077;Pedro Pereira;pedro.pereira5077@exemplo.com;M;22;Viamão;Mensal;129.90;1;3.8;5.1;Sim;Não;0;5
+5078;Lucas Oliveira;lucas.oliveira5078@exemplo.com;M;18;Novo Hamburgo;Mensal;129.90;6;0.9;9.4;Não;Não;0;1
+5079;Gabriela Barbosa;gabriela.barbosa5079@exemplo.com;F;31;Porto Alegre;Mensal;129.90;28;3.2;10.6;Não;Não;0;4
+5080;Marcelo Vieira;marcelo.vieira5080@exemplo.com;M;22;Canoas;Trimestral;109.90;13;1.2;14.7;Não;Sim;1;5
+5081;Eduardo Ribeiro;eduardo.ribeiro5081@exemplo.com;M;34;Viamão;Mensal;129.90;13;2.3;10.2;Não;Sim;4;5
+5082;Débora Carvalho;debora.carvalho5082@exemplo.com;F;35;Viamão;Anual;89.90;6;5.2;6.0;Não;Sim;0;2
+5083;Mateus Silva;mateus.silva5083@exemplo.com;M;22;Novo Hamburgo;Trimestral;109.90;10;1.9;5.2;Não;Não;0;4
+5084;Rodrigo Ferreira;rodrigo.ferreira5084@exemplo.com;M;34;Porto Alegre;Trimestral;109.90;19;1.9;4.1;Não;Sim;2;4
+5085;Fernando Silva;fernando.silva5085@exemplo.com;M;16;Canoas;Mensal;129.90;26;3.7;12.2;Sim;Não;0;5
+5086;Felipe Ribeiro;felipe.ribeiro5086@exemplo.com;M;20;Porto Alegre;Mensal;129.90;2;2.6;13.7;Não;Não;1;3
+5087;Pedro Pereira;pedro.pereira5087@exemplo.com;M;38;Canoas;Mensal;129.90;17;2.0;8.4;Não;Sim;0;4
+5088;Beatriz Fernandes;beatriz.fernandes5088@exemplo.com;F;30;Gravataí;Mensal;129.90;21;2.7;13.0;Não;Não;1;3
+5089;Rafael Carvalho;rafael.carvalho5089@exemplo.com;M;23;Porto Alegre;Mensal;129.90;26;3.6;9.8;Não;Sim;0;3
+5090;Thiago Soares;thiago.soares5090@exemplo.com;M;40;Canoas;Mensal;129.90;11;2.4;5.0;Não;Sim;2;4
+5091;Juliana Fernandes;juliana.fernandes5091@exemplo.com;F;40;Canoas;Mensal;129.90;27;2.2;11.9;Não;Não;3;4
+5092;Marcelo Barbosa;marcelo.barbosa5092@exemplo.com;M;25;Gravataí;Trimestral;109.90;27;3.8;2.5;Não;Não;0;4
+5093;Pedro Alves;pedro.alves5093@exemplo.com;M;25;Porto Alegre;Anual;89.90;19;3.0;13.6;Não;Sim;0;3
+5094;Eduardo Barbosa;eduardo.barbosa5094@exemplo.com;M;31;Viamão;Anual;89.90;11;4.2;2.2;Não;Sim;1;5
+5095;Mariana Costa;mariana.costa5095@exemplo.com;F;41;Novo Hamburgo;Mensal;129.90;32;2.6;7.8;Não;Sim;0;3
+5096;Letícia Oliveira;leticia.oliveira5096@exemplo.com;F;26;Porto Alegre;Trimestral;109.90;9;4.6;2.6;Não;Sim;0;3
+5097;Daniel Santos;daniel.santos5097@exemplo.com;M;31;Viamão;Trimestral;109.90;34;1.6;9.4;Não;Não;0;2
+5098;Mariana Ribeiro;mariana.ribeiro5098@exemplo.com;F;40;Canoas;Mensal;129.90;14;4.3;1.2;Não;Sim;0;4
+5099;Mateus Santos;mateus.santos5099@exemplo.com;M;24;Viamão;Mensal;129.90;11;3.4;3.6;Sim;Sim;2;4
+5100;Isabela Ferreira;isabela.ferreira5100@exemplo.com;F;41;Porto Alegre;Trimestral;109.90;20;2.5;5.6;Não;Não;0;5
+5101;Ana Ribeiro;ana.ribeiro5101@exemplo.com;F;34;Novo Hamburgo;Mensal;129.90;33;2.8;13.1;Não;Sim;0;4
+5102;Renata Rodrigues;renata.rodrigues5102@exemplo.com;F;29;Porto Alegre;Trimestral;109.90;8;5.0;1.7;Sim;Sim;2;4
+5103;Carlos Costa;carlos.costa5103@exemplo.com;M;24;Viamão;Mensal;129.90;15;1.2;8.9;Não;Sim;1;2
+5104;Mariana Carvalho;mariana.carvalho5104@exemplo.com;F;23;Novo Hamburgo;Trimestral;109.90;31;0.5;4.7;Não;Não;2;4
+5105;Marcelo Silva;marcelo.silva5105@exemplo.com;M;23;Viamão;Trimestral;109.90;14;4.0;4.9;Não;Não;3;4
+5106;Ana Oliveira;ana.oliveira5106@exemplo.com;F;45;Canoas;Mensal;129.90;28;3.3;12.6;Não;Não;1;1
+5107;Beatriz Souza;beatriz.souza5107@exemplo.com;F;25;Canoas;Trimestral;109.90;35;2.1;2.8;Sim;Não;1;5
+5108;Fernando Santos;fernando.santos5108@exemplo.com;M;56;Canoas;Trimestral;109.90;25;4.4;11.3;Não;Sim;3;4
+5109;Pedro Santos;pedro.santos5109@exemplo.com;M;16;Gravataí;Mensal;129.90;15;2.0;11.4;Não;Não;2;3
+5110;Juliana Martins;juliana.martins5110@exemplo.com;F;34;Novo Hamburgo;Mensal;129.90;7;0.0;7.9;Não;Não;0;4
+5111;Letícia Souza;leticia.souza5111@exemplo.com;F;33;Gravataí;Mensal;129.90;32;0.0;10.5;Não;Não;0;5
+5112;Gabriela Souza;gabriela.souza5112@exemplo.com;F;41;Porto Alegre;Mensal;129.90;5;1.4;11.0;Não;Não;2;4
+5113;Vanessa Carvalho;vanessa.carvalho5113@exemplo.com;F;36;Gravataí;Anual;89.90;36;2.5;6.6;Não;Sim;1;4
+5114;Felipe Costa;felipe.costa5114@exemplo.com;M;29;Gravataí;Anual;89.90;20;4.3;6.8;Não;Não;0;4
+5115;Eduardo Barbosa;eduardo.barbosa5115@exemplo.com;M;29;Porto Alegre;Mensal;129.90;7;3.5;4.5;Não;Não;3;5
+5116;Eduardo Carvalho;eduardo.carvalho5116@exemplo.com;M;26;Novo Hamburgo;Mensal;129.90;31;1.6;9.5;Não;Sim;4;3
+5117;Gustavo Lopes;gustavo.lopes5117@exemplo.com;M;16;Viamão;Trimestral;109.90;36;5.0;6.0;Não;Não;0;4
+5118;Carolina Alves;carolina.alves5118@exemplo.com;F;20;Canoas;Trimestral;109.90;18;0.7;1.1;Sim;Não;1;3
+5119;Mariana Lima;mariana.lima5119@exemplo.com;F;23;Porto Alegre;Mensal;129.90;6;1.3;0.9;Não;Sim;0;4
+5120;Priscila Almeida;priscila.almeida5120@exemplo.com;F;23;Gravataí;Anual;89.90;34;4.2;6.8;Não;Não;1;4
+5121;André Ferreira;andre.ferreira5121@exemplo.com;M;31;Porto Alegre;Mensal;129.90;24;1.9;0.5;Sim;Não;1;3
+5122;Mariana Pereira;mariana.pereira5122@exemplo.com;F;29;Viamão;Anual;89.90;3;3.9;3.4;Não;Sim;0;4
+5123;Beatriz Oliveira;beatriz.oliveira5123@exemplo.com;F;32;Gravataí;Mensal;129.90;26;2.5;14.1;Não;Sim;0;5
+5124;Gabriel Vieira;gabriel.vieira5124@exemplo.com;M;37;Gravataí;Anual;89.90;14;3.6;11.9;Sim;Sim;4;5
+5125;Mateus Lima;mateus.lima5125@exemplo.com;M;41;Porto Alegre;Mensal;129.90;30;0.2;3.2;Não;Sim;1;2
+5126;Rafael Santos;rafael.santos5126@exemplo.com;M;22;Porto Alegre;Mensal;129.90;34;4.7;12.3;Não;Sim;0;3
+5127;João Martins;joao.martins5127@exemplo.com;M;30;Viamão;Anual;89.90;20;4.5;1.2;Não;Não;0;3
+5128;Letícia Rodrigues;leticia.rodrigues5128@exemplo.com;F;39;Viamão;Mensal;129.90;12;5.4;4.4;Não;Não;0;3
+5129;Rafael Souza;rafael.souza5129@exemplo.com;M;43;Gravataí;Mensal;129.90;27;3.9;6.6;Não;Sim;0;3
+5130;Letícia Costa;leticia.costa5130@exemplo.com;F;22;Novo Hamburgo;Mensal;129.90;33;4.2;7.1;Não;Sim;3;3
+5131;Leonardo Gomes;leonardo.gomes5131@exemplo.com;M;23;Viamão;Mensal;129.90;3;1.3;2.5;Não;Sim;0;4
+5132;Leonardo Oliveira;leonardo.oliveira5132@exemplo.com;M;41;Canoas;Trimestral;109.90;19;2.4;7.0;Não;Não;0;3
+5133;Rafael Fernandes;rafael.fernandes5133@exemplo.com;M;35;Novo Hamburgo;Mensal;129.90;23;3.6;5.0;Sim;Não;1;5
+5134;Larissa Ferreira;larissa.ferreira5134@exemplo.com;F;37;Gravataí;Mensal;129.90;36;3.1;3.8;Não;Não;0;3
+5135;Bruno Oliveira;bruno.oliveira5135@exemplo.com;M;42;Viamão;Anual;89.90;14;2.6;8.0;Não;Não;1;3
+5136;Juliana Alves;juliana.alves5136@exemplo.com;F;16;Porto Alegre;Mensal;129.90;10;3.1;7.4;Não;Sim;0;4
+5137;Fernanda Ribeiro;fernanda.ribeiro5137@exemplo.com;F;25;Porto Alegre;Mensal;129.90;11;2.8;10.8;Não;Não;1;3
+5138;Lucas Martins;lucas.martins5138@exemplo.com;M;31;Porto Alegre;Mensal;129.90;6;1.0;2.2;Não;Sim;1;2
+5139;Leonardo Ribeiro;leonardo.ribeiro5139@exemplo.com;M;27;Porto Alegre;Mensal;129.90;19;2.5;14.3;Sim;Não;1;2
+5140;Bruna Fernandes;bruna.fernandes5140@exemplo.com;F;47;Gravataí;Anual;89.90;19;2.1;9.9;Sim;Não;0;4
+5141;Mateus Santos;mateus.santos5141@exemplo.com;M;38;Viamão;Anual;89.90;19;4.8;5.3;Não;Sim;1;4
+5142;Fernanda Fernandes;fernanda.fernandes5142@exemplo.com;F;47;Viamão;Anual;89.90;33;2.1;4.5;Não;Não;3;5
+5143;Pedro Barbosa;pedro.barbosa5143@exemplo.com;M;43;Porto Alegre;Trimestral;109.90;30;3.4;12.3;Não;Não;1;5
+5144;Mariana Santos;mariana.santos5144@exemplo.com;F;16;Canoas;Trimestral;109.90;29;1.9;10.6;Não;Sim;0;4
+5145;Carolina Ferreira;carolina.ferreira5145@exemplo.com;F;24;Viamão;Mensal;129.90;26;0.7;13.7;Não;Sim;3;2
+5146;Bruno Carvalho;bruno.carvalho5146@exemplo.com;M;23;Gravataí;Mensal;129.90;18;2.1;9.4;Não;Não;2;1
+5147;Isabela Oliveira;isabela.oliveira5147@exemplo.com;F;28;Canoas;Mensal;129.90;21;4.6;12.0;Não;Não;1;4
+5148;Bruna Oliveira;bruna.oliveira5148@exemplo.com;F;41;Viamão;Mensal;129.90;22;2.5;5.1;Não;Não;3;4
+5149;Mateus Costa;mateus.costa5149@exemplo.com;M;34;Viamão;Anual;89.90;17;2.0;2.0;Não;Sim;0;2
+5150;Gabriel Almeida;gabriel.almeida5150@exemplo.com;M;49;Gravataí;Mensal;129.90;32;3.4;5.0;Não;Não;2;5
+5151;Felipe Santos;felipe.santos5151@exemplo.com;M;48;Viamão;Anual;89.90;16;2.9;12.3;Não;Sim;2;5
+5152;Renata Silva;renata.silva5152@exemplo.com;F;23;Viamão;Mensal;129.90;31;2.4;3.3;Não;Não;1;2
+5153;Aline Carvalho;aline.carvalho5153@exemplo.com;F;29;Gravataí;Trimestral;109.90;28;2.5;3.5;Não;Não;2;5
+5154;Pedro Pereira;pedro.pereira5154@exemplo.com;M;37;Novo Hamburgo;Mensal;129.90;13;3.2;7.2;Sim;Não;2;4
+5155;Felipe Soares;felipe.soares5155@exemplo.com;M;41;Canoas;Trimestral;109.90;3;3.9;6.5;Não;Sim;0;3
+5156;Isabela Martins;isabela.martins5156@exemplo.com;F;27;Novo Hamburgo;Trimestral;109.90;9;2.2;5.2;Não;Não;0;4
+5157;Priscila Costa;priscila.costa5157@exemplo.com;F;17;Novo Hamburgo;Trimestral;109.90;3;3.3;4.2;Não;Não;1;2
+5158;Gabriela Oliveira;gabriela.oliveira5158@exemplo.com;F;35;Gravataí;Mensal;129.90;24;3.7;3.6;Não;Não;1;4
+5159;João Oliveira;joao.oliveira5159@exemplo.com;M;41;Viamão;Mensal;129.90;32;2.1;12.6;Não;Sim;0;4
+5160;Renata Costa;renata.costa5160@exemplo.com;F;16;Canoas;Trimestral;109.90;18;2.3;0.6;Não;Não;1;4
+5161;Gabriel Gomes;gabriel.gomes5161@exemplo.com;M;38;Novo Hamburgo;Mensal;129.90;20;3.5;8.3;Não;Sim;0;4
+5162;Fernando Barbosa;fernando.barbosa5162@exemplo.com;M;24;Porto Alegre;Trimestral;109.90;9;0.5;6.1;Não;Não;1;1
+5163;Rafael Pereira;rafael.pereira5163@exemplo.com;M;32;Canoas;Trimestral;109.90;28;0.3;11.4;Sim;Não;4;2
+5164;Gustavo Santos;gustavo.santos5164@exemplo.com;M;33;Novo Hamburgo;Trimestral;109.90;12;3.1;4.9;Não;Sim;1;4
+5165;Bruno Martins;bruno.martins5165@exemplo.com;M;26;Canoas;Mensal;129.90;15;2.8;5.9;Não;Não;2;4
+5166;Pedro Martins;pedro.martins5166@exemplo.com;M;34;Gravataí;Mensal;129.90;35;3.5;8.6;Não;Não;1;3
+5167;Leonardo Santos;leonardo.santos5167@exemplo.com;M;39;Viamão;Trimestral;109.90;5;2.7;14.0;Sim;Sim;1;5
+5168;Leonardo Carvalho;leonardo.carvalho5168@exemplo.com;M;36;Canoas;Trimestral;109.90;31;1.9;8.8;Não;Sim;1;5
+5169;Diego Alves;diego.alves5169@exemplo.com;M;36;Gravataí;Mensal;129.90;34;5.3;8.9;Não;Não;0;4
+5170;Diego Oliveira;diego.oliveira5170@exemplo.com;M;46;Canoas;Mensal;129.90;21;2.0;8.5;Sim;Sim;0;5
+5171;Vitor Almeida;vitor.almeida5171@exemplo.com;M;36;Gravataí;Mensal;129.90;32;3.8;5.2;Não;Não;0;4
+5172;Leonardo Fernandes;leonardo.fernandes5172@exemplo.com;M;37;Viamão;Mensal;129.90;28;2.7;3.4;Sim;Não;1;2
+5173;Carlos Lopes;carlos.lopes5173@exemplo.com;M;53;Novo Hamburgo;Anual;89.90;32;3.3;6.5;Não;Sim;2;4
+5174;Larissa Alves;larissa.alves5174@exemplo.com;F;21;Viamão;Mensal;129.90;1;3.9;2.2;Não;Não;0;2
+5175;Thiago Almeida;thiago.almeida5175@exemplo.com;M;37;Novo Hamburgo;Trimestral;109.90;24;4.2;13.0;Não;Sim;3;3
+5176;Carolina Santos;carolina.santos5176@exemplo.com;F;16;Novo Hamburgo;Mensal;129.90;26;3.3;13.4;Não;Não;2;3
+5177;Beatriz Vieira;beatriz.vieira5177@exemplo.com;F;39;Viamão;Anual;89.90;9;2.0;7.9;Não;Sim;0;3
+5178;Letícia Lopes;leticia.lopes5178@exemplo.com;F;39;Porto Alegre;Trimestral;109.90;5;1.4;9.9;Sim;Não;0;4
+5179;Mateus Pereira;mateus.pereira5179@exemplo.com;M;42;Novo Hamburgo;Trimestral;109.90;12;2.2;5.1;Não;Sim;0;3
+5180;Gustavo Vieira;gustavo.vieira5180@exemplo.com;M;19;Porto Alegre;Anual;89.90;27;2.3;0.7;Não;Não;0;4
+5181;Bruna Almeida;bruna.almeida5181@exemplo.com;F;41;Novo Hamburgo;Anual;89.90;3;2.8;2.6;Não;Sim;2;4
+5182;Juliana Ribeiro;juliana.ribeiro5182@exemplo.com;F;36;Canoas;Trimestral;109.90;20;2.1;7.4;Não;Não;1;4
+5183;André Silva;andre.silva5183@exemplo.com;M;35;Gravataí;Trimestral;109.90;30;2.9;12.4;Não;Sim;2;4
+5184;Renata Gomes;renata.gomes5184@exemplo.com;F;46;Porto Alegre;Anual;89.90;5;2.6;4.3;Não;Não;0;2
+5185;Felipe Rodrigues;felipe.rodrigues5185@exemplo.com;M;28;Viamão;Mensal;129.90;7;2.9;4.3;Não;Não;2;5
+5186;Lucas Silva;lucas.silva5186@exemplo.com;M;33;Viamão;Mensal;129.90;6;1.2;4.4;Não;Não;0;4
+5187;Vanessa Soares;vanessa.soares5187@exemplo.com;F;32;Viamão;Mensal;129.90;28;4.1;12.3;Não;Não;4;5
+5188;Carlos Soares;carlos.soares5188@exemplo.com;M;25;Viamão;Mensal;129.90;18;2.3;14.4;Não;Sim;0;4
+5189;Diego Lima;diego.lima5189@exemplo.com;M;33;Gravataí;Mensal;129.90;9;1.8;4.0;Não;Sim;0;4
+5190;Patrícia Oliveira;patricia.oliveira5190@exemplo.com;F;21;Novo Hamburgo;Mensal;129.90;15;3.8;6.9;Não;Não;1;5
+5191;Débora Ferreira;debora.ferreira5191@exemplo.com;F;22;Porto Alegre;Trimestral;109.90;8;5.0;4.9;Não;Sim;0;3
+5192;Rafael Alves;rafael.alves5192@exemplo.com;M;46;Novo Hamburgo;Anual;89.90;17;5.3;13.3;Sim;Sim;0;4
+5193;Ana Lima;ana.lima5193@exemplo.com;F;37;Porto Alegre;Mensal;129.90;9;4.1;2.1;Não;Não;3;4
+5194;Juliana Barbosa;juliana.barbosa5194@exemplo.com;F;35;Viamão;Mensal;129.90;11;1.4;10.3;Não;Não;2;4
+5195;Thiago Rodrigues;thiago.rodrigues5195@exemplo.com;M;32;Gravataí;Trimestral;109.90;1;3.0;2.2;Não;Não;0;4
+5196;Thiago Gomes;thiago.gomes5196@exemplo.com;M;43;Porto Alegre;Trimestral;109.90;9;1.5;9.9;Não;Não;1;3
+5197;Pedro Oliveira;pedro.oliveira5197@exemplo.com;M;27;Viamão;Anual;89.90;24;2.6;10.8;Não;Não;3;4
+5198;Vitor Ferreira;vitor.ferreira5198@exemplo.com;M;33;Viamão;Anual;89.90;7;3.5;5.4;Sim;Não;0;2
+5199;Eduardo Soares;eduardo.soares5199@exemplo.com;M;44;Viamão;Mensal;129.90;5;3.5;2.1;Não;Sim;0;4
+5200;Thiago Silva;thiago.silva5200@exemplo.com;M;32;Viamão;Mensal;129.90;16;3.7;14.9;Não;Não;1;3
+5201;Débora Silva;debora.silva5201@exemplo.com;F;25;Gravataí;Anual;89.90;7;4.2;6.4;Não;Não;3;1
+5202;Larissa Oliveira;larissa.oliveira5202@exemplo.com;F;39;Canoas;Mensal;129.90;3;4.3;3.4;Sim;Não;2;1
+5203;Natália Ribeiro;natalia.ribeiro5203@exemplo.com;F;37;Novo Hamburgo;Trimestral;109.90;22;1.6;9.7;Não;Sim;0;2
+5204;Larissa Alves;larissa.alves5204@exemplo.com;F;25;Novo Hamburgo;Anual;89.90;32;3.5;5.6;Não;Não;0;4
+5205;Pedro Pereira;pedro.pereira5205@exemplo.com;M;20;Canoas;Mensal;129.90;24;3.7;7.6;Não;Não;0;4
+5206;Amanda Soares;amanda.soares5206@exemplo.com;F;20;Viamão;Trimestral;109.90;33;1.8;9.7;Não;Não;0;4
+5207;Bruna Rodrigues;bruna.rodrigues5207@exemplo.com;F;18;Novo Hamburgo;Mensal;129.90;8;1.4;0.5;Não;Não;2;4
+5208;Débora Rodrigues;debora.rodrigues5208@exemplo.com;F;19;Canoas;Mensal;129.90;30;3.8;9.9;Não;Sim;1;4
+5209;Camila Ferreira;camila.ferreira5209@exemplo.com;F;28;Viamão;Mensal;129.90;5;3.0;6.1;Não;Não;1;1
+5210;Bruna Rodrigues;bruna.rodrigues5210@exemplo.com;F;37;Gravataí;Anual;89.90;19;2.7;3.6;Não;Não;0;3
+5211;Carlos Barbosa;carlos.barbosa5211@exemplo.com;M;42;Viamão;Mensal;129.90;28;1.1;13.8;Não;Não;1;2
+5212;Bruna Oliveira;bruna.oliveira5212@exemplo.com;F;32;Canoas;Anual;89.90;33;4.5;11.8;Sim;Sim;0;2
+5213;Bruno Soares;bruno.soares5213@exemplo.com;M;26;Canoas;Mensal;129.90;20;1.9;9.2;Não;Sim;0;3
+5214;Fernando Lopes;fernando.lopes5214@exemplo.com;M;22;Porto Alegre;Trimestral;109.90;18;3.8;6.9;Não;Sim;0;5
+5215;Juliana Santos;juliana.santos5215@exemplo.com;F;40;Viamão;Trimestral;109.90;2;3.3;5.8;Não;Não;0;2
+5216;Carolina Ferreira;carolina.ferreira5216@exemplo.com;F;51;Gravataí;Anual;89.90;25;1.5;14.4;Não;Não;0;5
+5217;Patrícia Fernandes;patricia.fernandes5217@exemplo.com;F;46;Canoas;Mensal;129.90;3;3.4;2.0;Não;Sim;0;5
+5218;Letícia Ribeiro;leticia.ribeiro5218@exemplo.com;F;19;Canoas;Mensal;129.90;24;2.8;2.4;Não;Sim;3;5
+5219;Gustavo Carvalho;gustavo.carvalho5219@exemplo.com;M;20;Gravataí;Anual;89.90;30;1.8;9.4;Não;Não;0;4
+5220;Ana Ferreira;ana.ferreira5220@exemplo.com;F;17;Viamão;Anual;89.90;29;3.3;13.5;Não;Não;0;5
+5221;Patrícia Ferreira;patricia.ferreira5221@exemplo.com;F;24;Gravataí;Anual;89.90;7;2.3;13.2;Não;Não;0;4
+5222;Leonardo Lima;leonardo.lima5222@exemplo.com;M;21;Novo Hamburgo;Mensal;129.90;8;4.9;5.9;Não;Não;0;2
+5223;Carlos Soares;carlos.soares5223@exemplo.com;M;31;Viamão;Anual;89.90;14;2.9;14.5;Não;Não;0;2
+5224;Bruna Carvalho;bruna.carvalho5224@exemplo.com;F;28;Gravataí;Anual;89.90;22;1.7;0.8;Não;Não;0;4
+5225;Carlos Lima;carlos.lima5225@exemplo.com;M;26;Viamão;Mensal;129.90;13;1.3;14.9;Não;Não;0;5
+5226;Daniel Soares;daniel.soares5226@exemplo.com;M;23;Porto Alegre;Anual;89.90;31;3.4;8.6;Sim;Não;0;2
+5227;Fernando Pereira;fernando.pereira5227@exemplo.com;M;21;Gravataí;Trimestral;109.90;26;3.4;12.2;Não;Sim;0;2
+5228;Fernanda Pereira;fernanda.pereira5228@exemplo.com;F;31;Canoas;Mensal;129.90;2;5.5;3.1;Não;Não;0;4
+5229;João Lima;joao.lima5229@exemplo.com;M;34;Canoas;Trimestral;109.90;35;3.6;4.1;Não;Sim;2;4
+5230;Beatriz Carvalho;beatriz.carvalho5230@exemplo.com;F;44;Gravataí;Anual;89.90;23;1.3;6.3;Sim;Sim;2;3
+5231;Renata Pereira;renata.pereira5231@exemplo.com;F;24;Porto Alegre;Trimestral;109.90;9;1.9;11.7;Não;Sim;3;5
+5232;Rafael Pereira;rafael.pereira5232@exemplo.com;M;51;Porto Alegre;Anual;89.90;18;1.6;2.2;Não;Sim;1;4
+5233;Gustavo Silva;gustavo.silva5233@exemplo.com;M;34;Canoas;Trimestral;109.90;29;2.2;4.9;Não;Não;0;2
+5234;Pedro Almeida;pedro.almeida5234@exemplo.com;M;19;Porto Alegre;Anual;89.90;24;1.4;9.7;Não;Não;2;4
+5235;Diego Alves;diego.alves5235@exemplo.com;M;32;Viamão;Mensal;129.90;7;5.4;12.3;Não;Sim;0;4
+5236;Isabela Vieira;isabela.vieira5236@exemplo.com;F;28;Porto Alegre;Mensal;129.90;2;4.1;12.7;Sim;Não;0;1
+5237;Bruna Barbosa;bruna.barbosa5237@exemplo.com;F;24;Viamão;Mensal;129.90;19;2.0;13.6;Sim;Sim;1;5
+5238;Débora Vieira;debora.vieira5238@exemplo.com;F;21;Gravataí;Anual;89.90;8;3.5;14.4;Não;Não;0;2
+5239;Juliana Lopes;juliana.lopes5239@exemplo.com;F;43;Porto Alegre;Trimestral;109.90;27;1.2;14.2;Não;Não;2;4
+5240;Camila Fernandes;camila.fernandes5240@exemplo.com;F;34;Novo Hamburgo;Mensal;129.90;15;3.5;8.8;Não;Não;0;3
+5241;Lucas Soares;lucas.soares5241@exemplo.com;M;16;Gravataí;Mensal;129.90;1;3.7;4.0;Não;Não;0;5
+5242;Letícia Lima;leticia.lima5242@exemplo.com;F;37;Viamão;Trimestral;109.90;5;4.0;14.7;Não;Não;0;2
+5243;Camila Santos;camila.santos5243@exemplo.com;F;16;Novo Hamburgo;Mensal;129.90;2;2.4;3.9;Não;Sim;0;4
+5244;Carolina Lima;carolina.lima5244@exemplo.com;F;16;Porto Alegre;Mensal;129.90;33;3.6;14.6;Sim;Sim;0;4
+5245;Daniel Soares;daniel.soares5245@exemplo.com;M;16;Gravataí;Trimestral;109.90;2;3.2;8.8;Sim;Não;0;2
+5246;Juliana Santos;juliana.santos5246@exemplo.com;F;16;Viamão;Mensal;129.90;23;2.4;14.5;Não;Sim;0;4
+5247;Fernanda Martins;fernanda.martins5247@exemplo.com;F;23;Viamão;Anual;89.90;3;1.2;5.1;Sim;Sim;3;1
+5248;Priscila Ribeiro;priscila.ribeiro5248@exemplo.com;F;26;Viamão;Mensal;129.90;19;3.5;10.4;Sim;Não;4;5
+5249;Rafael Oliveira;rafael.oliveira5249@exemplo.com;M;30;Canoas;Trimestral;109.90;12;3.6;7.8;Não;Não;3;1
+5250;Amanda Silva;amanda.silva5250@exemplo.com;F;16;Gravataí;Anual;89.90;31;1.8;14.4;Não;Sim;0;1
+5251;Rodrigo Santos;rodrigo.santos5251@exemplo.com;M;36;Porto Alegre;Anual;89.90;33;4.7;5.6;Sim;Sim;4;4
+5252;Rodrigo Fernandes;rodrigo.fernandes5252@exemplo.com;M;25;Gravataí;Mensal;129.90;11;1.5;1.4;Não;Não;0;2
+5253;Gabriel Almeida;gabriel.almeida5253@exemplo.com;M;24;Porto Alegre;Anual;89.90;26;2.5;11.9;Não;Sim;1;3
+5254;João Barbosa;joao.barbosa5254@exemplo.com;M;48;Gravataí;Mensal;129.90;19;2.3;7.5;Não;Não;0;1
+5255;Thiago Pereira;thiago.pereira5255@exemplo.com;M;16;Porto Alegre;Anual;89.90;31;1.5;5.7;Não;Sim;1;2
+5256;Débora Santos;debora.santos5256@exemplo.com;F;16;Viamão;Trimestral;109.90;30;2.8;14.5;Não;Não;3;5
+5257;Daniel Santos;daniel.santos5257@exemplo.com;M;18;Canoas;Mensal;129.90;7;1.3;3.3;Não;Sim;0;1
+5258;Mariana Ferreira;mariana.ferreira5258@exemplo.com;F;42;Viamão;Trimestral;109.90;18;3.1;10.2;Sim;Não;0;5
+5259;Leonardo Ferreira;leonardo.ferreira5259@exemplo.com;M;19;Gravataí;Trimestral;109.90;13;1.1;12.8;Não;Não;2;3
+5260;Fernanda Rodrigues;fernanda.rodrigues5260@exemplo.com;F;46;Gravataí;Mensal;129.90;24;1.1;5.3;Não;Não;1;5
+5261;Mateus Costa;mateus.costa5261@exemplo.com;M;37;Gravataí;Anual;89.90;17;1.7;7.5;Não;Sim;1;2
+5262;Gabriel Silva;gabriel.silva5262@exemplo.com;M;23;Novo Hamburgo;Mensal;129.90;8;0.4;14.6;Não;Não;0;4
+5263;Gabriel Lima;gabriel.lima5263@exemplo.com;M;33;Porto Alegre;Trimestral;109.90;2;3.6;2.5;Não;Não;0;4
+5264;Vitor Silva;vitor.silva5264@exemplo.com;M;32;Gravataí;Trimestral;109.90;2;2.6;2.7;Não;Não;3;4
+5265;João Martins;joao.martins5265@exemplo.com;M;39;Gravataí;Trimestral;109.90;3;0.6;3.8;Não;Não;2;3
+5266;Eduardo Rodrigues;eduardo.rodrigues5266@exemplo.com;M;29;Canoas;Mensal;129.90;24;2.7;7.7;Não;Sim;0;4
+5267;Débora Barbosa;debora.barbosa5267@exemplo.com;F;37;Gravataí;Anual;89.90;34;2.5;12.7;Não;Não;0;3
+5268;Rodrigo Soares;rodrigo.soares5268@exemplo.com;M;32;Porto Alegre;Mensal;129.90;9;4.9;9.6;Não;Não;2;3
+5269;Felipe Silva;felipe.silva5269@exemplo.com;M;26;Porto Alegre;Mensal;129.90;27;2.9;5.5;Sim;Não;2;4
+5270;Gabriel Alves;gabriel.alves5270@exemplo.com;M;29;Novo Hamburgo;Anual;89.90;30;2.9;0.5;Não;Não;1;5
+5271;Bruna Lima;bruna.lima5271@exemplo.com;F;39;Porto Alegre;Trimestral;109.90;14;1.9;7.7;Não;Sim;0;4
+5272;Leonardo Souza;leonardo.souza5272@exemplo.com;M;43;Viamão;Trimestral;109.90;22;2.5;1.2;Não;Não;0;5
+5273;Mariana Gomes;mariana.gomes5273@exemplo.com;F;22;Gravataí;Mensal;129.90;22;4.4;2.8;Não;Não;0;4
+5274;Mateus Ribeiro;mateus.ribeiro5274@exemplo.com;M;21;Canoas;Mensal;129.90;34;0.5;8.0;Não;Não;1;2
+5275;Juliana Costa;juliana.costa5275@exemplo.com;F;31;Novo Hamburgo;Trimestral;109.90;31;3.3;5.5;Não;Sim;4;1
+5276;Priscila Alves;priscila.alves5276@exemplo.com;F;30;Canoas;Anual;89.90;21;3.8;4.9;Sim;Sim;4;1
+5277;Daniel Almeida;daniel.almeida5277@exemplo.com;M;49;Canoas;Anual;89.90;36;3.8;2.8;Não;Não;0;3
+5278;Thiago Alves;thiago.alves5278@exemplo.com;M;29;Novo Hamburgo;Trimestral;109.90;17;3.6;13.0;Não;Sim;1;4
+5279;Bruna Costa;bruna.costa5279@exemplo.com;F;43;Novo Hamburgo;Mensal;129.90;32;4.1;3.6;Sim;Sim;0;1
+5280;Letícia Carvalho;leticia.carvalho5280@exemplo.com;F;28;Canoas;Mensal;129.90;28;1.6;6.2;Não;Não;0;4
+5281;Eduardo Lima;eduardo.lima5281@exemplo.com;M;33;Canoas;Anual;89.90;34;3.7;8.3;Não;Não;0;4
+5282;Fernando Carvalho;fernando.carvalho5282@exemplo.com;M;33;Porto Alegre;Mensal;129.90;16;4.3;5.6;Não;Não;4;5
+5283;Isabela Lima;isabela.lima5283@exemplo.com;F;25;Porto Alegre;Mensal;129.90;2;1.7;13.1;Não;Não;0;4
+5284;Marcelo Martins;marcelo.martins5284@exemplo.com;M;20;Gravataí;Mensal;129.90;6;2.4;11.2;Sim;Sim;0;5
+5285;Débora Martins;debora.martins5285@exemplo.com;F;37;Porto Alegre;Anual;89.90;22;3.9;2.5;Sim;Sim;1;5
+5286;Carlos Almeida;carlos.almeida5286@exemplo.com;M;16;Porto Alegre;Trimestral;109.90;20;2.6;12.8;Não;Não;0;3
+5287;Daniel Oliveira;daniel.oliveira5287@exemplo.com;M;30;Novo Hamburgo;Mensal;129.90;7;2.1;15.0;Não;Sim;2;2
+5288;Diego Fernandes;diego.fernandes5288@exemplo.com;M;34;Gravataí;Trimestral;109.90;34;4.9;0.8;Sim;Sim;2;5
+5289;Beatriz Santos;beatriz.santos5289@exemplo.com;F;16;Canoas;Mensal;129.90;5;1.1;14.9;Sim;Não;1;4
+5290;Vanessa Souza;vanessa.souza5290@exemplo.com;F;39;Gravataí;Anual;89.90;12;4.0;6.8;Não;Sim;2;5
+5291;Bruna Gomes;bruna.gomes5291@exemplo.com;F;19;Gravataí;Anual;89.90;18;2.2;12.4;Não;Não;0;4
+5292;João Pereira;joao.pereira5292@exemplo.com;M;23;Viamão;Mensal;129.90;19;1.0;8.5;Não;Sim;1;4
+5293;Camila Almeida;camila.almeida5293@exemplo.com;F;44;Gravataí;Mensal;129.90;5;3.7;6.1;Sim;Não;0;4
+5294;Diego Rodrigues;diego.rodrigues5294@exemplo.com;M;16;Viamão;Anual;89.90;3;5.6;4.0;Não;Sim;3;3
+5295;Vitor Oliveira;vitor.oliveira5295@exemplo.com;M;32;Canoas;Mensal;129.90;36;2.6;12.5;Não;Sim;0;1
+5296;Mariana Santos;mariana.santos5296@exemplo.com;F;16;Canoas;Mensal;129.90;32;1.2;12.2;Não;Não;4;4
+5297;Carolina Soares;carolina.soares5297@exemplo.com;F;25;Viamão;Mensal;129.90;21;3.0;10.9;Não;Não;1;4
+5298;Marcelo Gomes;marcelo.gomes5298@exemplo.com;M;37;Viamão;Mensal;129.90;18;5.1;11.1;Não;Sim;0;4
+5299;Priscila Ribeiro;priscila.ribeiro5299@exemplo.com;F;43;Canoas;Trimestral;109.90;29;1.7;10.0;Não;Sim;1;5
+5300;Carlos Santos;carlos.santos5300@exemplo.com;M;26;Canoas;Mensal;129.90;14;3.6;3.5;Não;Sim;1;4
+5301;Letícia Lima;leticia.lima5301@exemplo.com;F;22;Porto Alegre;Trimestral;109.90;13;3.1;14.4;Sim;Não;0;4
+5302;Daniel Souza;daniel.souza5302@exemplo.com;M;29;Gravataí;Anual;89.90;1;2.9;12.5;Não;Sim;1;5
+5303;Vanessa Fernandes;vanessa.fernandes5303@exemplo.com;F;56;Novo Hamburgo;Trimestral;109.90;32;1.9;0.9;Sim;Não;1;4
+5304;Pedro Alves;pedro.alves5304@exemplo.com;M;42;Gravataí;Trimestral;109.90;20;1.2;3.6;Não;Não;0;3
+5305;Camila Martins;camila.martins5305@exemplo.com;F;27;Canoas;Trimestral;109.90;15;0.9;5.6;Não;Não;0;3
+5306;Aline Lima;aline.lima5306@exemplo.com;F;24;Canoas;Mensal;129.90;10;1.7;5.7;Não;Não;0;3
+5307;Pedro Silva;pedro.silva5307@exemplo.com;M;34;Gravataí;Trimestral;109.90;1;2.3;4.2;Não;Sim;2;4
+5308;Diego Oliveira;diego.oliveira5308@exemplo.com;M;16;Novo Hamburgo;Anual;89.90;24;2.7;6.7;Não;Não;2;5
+5309;Eduardo Santos;eduardo.santos5309@exemplo.com;M;16;Porto Alegre;Mensal;129.90;29;3.3;13.9;Não;Sim;0;3
+5310;Débora Souza;debora.souza5310@exemplo.com;F;47;Porto Alegre;Mensal;129.90;6;5.3;6.2;Sim;Sim;4;3
+5311;Débora Silva;debora.silva5311@exemplo.com;F;30;Porto Alegre;Mensal;129.90;6;3.0;9.9;Não;Não;0;4
+5312;Diego Fernandes;diego.fernandes5312@exemplo.com;M;33;Viamão;Anual;89.90;6;2.4;14.7;Não;Não;0;4
+5313;Vanessa Lopes;vanessa.lopes5313@exemplo.com;F;37;Viamão;Anual;89.90;3;2.6;11.5;Não;Sim;3;2
+5314;Diego Almeida;diego.almeida5314@exemplo.com;M;21;Porto Alegre;Anual;89.90;10;0.4;2.5;Não;Sim;4;4
+5315;Renata Souza;renata.souza5315@exemplo.com;F;50;Gravataí;Mensal;129.90;28;4.6;12.9;Não;Sim;0;4
+5316;Vitor Barbosa;vitor.barbosa5316@exemplo.com;M;48;Canoas;Anual;89.90;22;3.2;13.3;Não;Não;1;1
+5317;Rafael Lopes;rafael.lopes5317@exemplo.com;M;44;Novo Hamburgo;Anual;89.90;13;2.2;11.6;Sim;Sim;3;2
+5318;Vanessa Fernandes;vanessa.fernandes5318@exemplo.com;F;33;Viamão;Anual;89.90;18;2.9;3.7;Não;Sim;2;2
+5319;André Oliveira;andre.oliveira5319@exemplo.com;M;39;Novo Hamburgo;Mensal;129.90;8;1.5;11.9;Sim;Não;2;3
+5320;Vanessa Oliveira;vanessa.oliveira5320@exemplo.com;F;20;Viamão;Mensal;129.90;25;4.0;12.6;Não;Não;4;5
+5321;Gabriel Almeida;gabriel.almeida5321@exemplo.com;M;22;Gravataí;Mensal;129.90;35;0.7;8.9;Não;Sim;0;5
+5322;Juliana Alves;juliana.alves5322@exemplo.com;F;24;Canoas;Trimestral;109.90;1;2.5;2.1;Sim;Não;0;4
+5323;Débora Souza;debora.souza5323@exemplo.com;F;39;Porto Alegre;Anual;89.90;12;3.0;13.9;Não;Sim;0;4
+5324;Beatriz Ribeiro;beatriz.ribeiro5324@exemplo.com;F;16;Viamão;Anual;89.90;18;3.3;10.3;Sim;Sim;1;3
+5325;Carlos Gomes;carlos.gomes5325@exemplo.com;M;47;Novo Hamburgo;Trimestral;109.90;2;1.9;14.2;Não;Não;1;5
+5326;Carlos Rodrigues;carlos.rodrigues5326@exemplo.com;M;41;Viamão;Trimestral;109.90;24;2.5;8.8;Não;Sim;1;1
+5327;Thiago Ribeiro;thiago.ribeiro5327@exemplo.com;M;27;Gravataí;Mensal;129.90;9;3.1;7.5;Não;Sim;2;4
+5328;Beatriz Santos;beatriz.santos5328@exemplo.com;F;19;Viamão;Mensal;129.90;18;3.1;13.2;Não;Não;0;3
+5329;Amanda Soares;amanda.soares5329@exemplo.com;F;16;Porto Alegre;Anual;89.90;17;2.5;6.5;Não;Sim;1;4
+5330;Amanda Alves;amanda.alves5330@exemplo.com;F;33;Canoas;Trimestral;109.90;13;3.1;12.0;Não;Sim;0;2
+5331;Ana Lima;ana.lima5331@exemplo.com;F;29;Viamão;Mensal;129.90;1;1.4;14.0;Não;Sim;0;3
+5332;Gabriela Carvalho;gabriela.carvalho5332@exemplo.com;F;36;Porto Alegre;Mensal;129.90;4;1.4;9.9;Não;Não;2;3
+5333;Carlos Almeida;carlos.almeida5333@exemplo.com;M;32;Novo Hamburgo;Trimestral;109.90;19;4.5;0.7;Sim;Não;1;5
+5334;Daniel Soares;daniel.soares5334@exemplo.com;M;27;Canoas;Anual;89.90;5;2.1;7.2;Sim;Sim;0;2
+5335;Pedro Ribeiro;pedro.ribeiro5335@exemplo.com;M;30;Gravataí;Anual;89.90;16;3.4;4.4;Sim;Sim;0;3
+5336;Thiago Costa;thiago.costa5336@exemplo.com;M;26;Gravataí;Mensal;129.90;29;2.4;14.1;Não;Não;0;1
+5337;Daniel Almeida;daniel.almeida5337@exemplo.com;M;26;Viamão;Mensal;129.90;27;1.3;5.0;Não;Sim;3;2
+5338;Gabriela Lima;gabriela.lima5338@exemplo.com;F;28;Porto Alegre;Mensal;129.90;15;3.5;3.3;Não;Sim;0;4
+5339;Isabela Vieira;isabela.vieira5339@exemplo.com;F;21;Novo Hamburgo;Trimestral;109.90;27;2.4;8.4;Não;Sim;1;4
+5340;Thiago Oliveira;thiago.oliveira5340@exemplo.com;M;25;Viamão;Trimestral;109.90;4;2.0;5.6;Sim;Não;0;3
+5341;Marcelo Silva;marcelo.silva5341@exemplo.com;M;39;Gravataí;Mensal;129.90;8;2.7;3.9;Não;Não;4;5
+5342;Eduardo Martins;eduardo.martins5342@exemplo.com;M;44;Gravataí;Anual;89.90;34;4.7;13.5;Não;Não;2;4
+5343;Rafael Ribeiro;rafael.ribeiro5343@exemplo.com;M;18;Porto Alegre;Mensal;129.90;18;2.9;14.1;Não;Sim;1;2
+5344;Bruno Vieira;bruno.vieira5344@exemplo.com;M;33;Canoas;Mensal;129.90;1;2.3;6.8;Não;Sim;0;3
+5345;Bruno Santos;bruno.santos5345@exemplo.com;M;26;Gravataí;Anual;89.90;1;3.6;12.4;Não;Sim;1;4
+5346;Felipe Souza;felipe.souza5346@exemplo.com;M;24;Gravataí;Mensal;129.90;22;1.1;7.0;Não;Sim;2;1
+5347;Fernanda Gomes;fernanda.gomes5347@exemplo.com;F;21;Porto Alegre;Anual;89.90;12;0.4;5.1;Sim;Não;0;3
+5348;Isabela Alves;isabela.alves5348@exemplo.com;F;36;Gravataí;Trimestral;109.90;5;3.8;0.8;Não;Não;0;4
+5349;André Rodrigues;andre.rodrigues5349@exemplo.com;M;44;Viamão;Trimestral;109.90;24;2.2;4.0;Não;Sim;4;4
+5350;Daniel Lima;daniel.lima5350@exemplo.com;M;26;Viamão;Mensal;129.90;13;5.2;2.9;Sim;Sim;0;3
+5351;Pedro Ferreira;pedro.ferreira5351@exemplo.com;M;20;Canoas;Trimestral;109.90;24;3.9;1.6;Não;Não;0;4
+5352;João Costa;joao.costa5352@exemplo.com;M;16;Canoas;Mensal;129.90;24;1.9;3.2;Sim;Não;3;5
+5353;Daniel Ribeiro;daniel.ribeiro5353@exemplo.com;M;56;Novo Hamburgo;Trimestral;109.90;16;4.2;5.1;Não;Sim;0;4
+5354;Thiago Soares;thiago.soares5354@exemplo.com;M;33;Viamão;Anual;89.90;9;2.1;2.9;Não;Não;1;4
+5355;Mateus Ribeiro;mateus.ribeiro5355@exemplo.com;M;46;Gravataí;Anual;89.90;18;4.0;4.4;Não;Sim;1;5
+5356;Gustavo Carvalho;gustavo.carvalho5356@exemplo.com;M;34;Novo Hamburgo;Anual;89.90;32;1.8;12.1;Não;Não;1;3
+5357;Amanda Lima;amanda.lima5357@exemplo.com;F;32;Viamão;Anual;89.90;15;4.4;12.3;Não;Não;0;4
+5358;Eduardo Souza;eduardo.souza5358@exemplo.com;M;18;Novo Hamburgo;Mensal;129.90;23;4.4;14.6;Não;Sim;0;3
+5359;Eduardo Carvalho;eduardo.carvalho5359@exemplo.com;M;20;Viamão;Mensal;129.90;28;3.6;6.5;Não;Sim;0;4
+5360;Carolina Almeida;carolina.almeida5360@exemplo.com;F;39;Canoas;Mensal;129.90;35;2.3;7.9;Não;Não;4;4
+5361;Vanessa Costa;vanessa.costa5361@exemplo.com;F;39;Viamão;Anual;89.90;28;5.1;6.3;Sim;Não;0;5
+5362;Natália Fernandes;natalia.fernandes5362@exemplo.com;F;33;Canoas;Anual;89.90;19;2.5;4.9;Não;Não;3;1
+5363;Daniel Rodrigues;daniel.rodrigues5363@exemplo.com;M;25;Porto Alegre;Mensal;129.90;25;2.3;3.1;Não;Sim;0;2
+5364;Rodrigo Martins;rodrigo.martins5364@exemplo.com;M;28;Canoas;Trimestral;109.90;26;3.1;4.2;Não;Sim;2;4
+5365;Fernanda Soares;fernanda.soares5365@exemplo.com;F;29;Novo Hamburgo;Mensal;129.90;32;2.5;8.5;Não;Sim;3;3
+5366;Priscila Pereira;priscila.pereira5366@exemplo.com;F;22;Novo Hamburgo;Trimestral;109.90;36;3.5;14.5;Não;Não;0;5
+5367;Carlos Costa;carlos.costa5367@exemplo.com;M;32;Novo Hamburgo;Trimestral;109.90;14;6.0;13.3;Não;Sim;0;5
+5368;Bruna Fernandes;bruna.fernandes5368@exemplo.com;F;29;Gravataí;Anual;89.90;9;2.9;12.4;Não;Não;2;4
+5369;Mariana Pereira;mariana.pereira5369@exemplo.com;F;35;Gravataí;Mensal;129.90;28;2.5;11.5;Não;Sim;1;5
+5370;Carlos Martins;carlos.martins5370@exemplo.com;M;16;Canoas;Trimestral;109.90;21;1.6;1.0;Não;Não;0;4
+5371;Isabela Fernandes;isabela.fernandes5371@exemplo.com;F;25;Canoas;Mensal;129.90;14;3.0;10.8;Não;Não;0;4
+5372;Bruno Pereira;bruno.pereira5372@exemplo.com;M;20;Viamão;Mensal;129.90;17;1.8;11.4;Sim;Não;0;3
+5373;Eduardo Vieira;eduardo.vieira5373@exemplo.com;M;44;Gravataí;Trimestral;109.90;35;2.4;12.5;Sim;Não;2;4
+5374;Rodrigo Soares;rodrigo.soares5374@exemplo.com;M;16;Porto Alegre;Mensal;129.90;31;1.0;9.1;Não;Não;1;4
+5375;Daniel Oliveira;daniel.oliveira5375@exemplo.com;M;47;Novo Hamburgo;Mensal;129.90;11;2.9;1.7;Não;Não;1;3
+5376;Carolina Carvalho;carolina.carvalho5376@exemplo.com;F;36;Novo Hamburgo;Trimestral;109.90;31;3.0;9.3;Não;Não;1;1
+5377;Carolina Carvalho;carolina.carvalho5377@exemplo.com;F;46;Novo Hamburgo;Mensal;129.90;18;3.9;11.2;Não;Sim;0;3
+5378;Amanda Souza;amanda.souza5378@exemplo.com;F;26;Gravataí;Anual;89.90;26;2.6;4.2;Sim;Sim;0;5
+5379;Carlos Soares;carlos.soares5379@exemplo.com;M;38;Canoas;Mensal;129.90;20;2.6;2.3;Não;Não;0;2
+5380;Thiago Santos;thiago.santos5380@exemplo.com;M;32;Viamão;Trimestral;109.90;11;2.2;12.8;Não;Sim;4;3
+5381;Camila Almeida;camila.almeida5381@exemplo.com;F;33;Canoas;Mensal;129.90;6;0.0;5.7;Não;Não;3;3
+5382;Beatriz Lopes;beatriz.lopes5382@exemplo.com;F;19;Porto Alegre;Trimestral;109.90;23;2.8;6.8;Não;Sim;0;3
+5383;Renata Gomes;renata.gomes5383@exemplo.com;F;33;Novo Hamburgo;Mensal;129.90;22;3.5;4.5;Não;Não;3;4
+5384;Gabriela Costa;gabriela.costa5384@exemplo.com;F;23;Gravataí;Anual;89.90;29;2.6;5.4;Não;Não;0;3
+5385;Mateus Silva;mateus.silva5385@exemplo.com;M;24;Novo Hamburgo;Trimestral;109.90;35;2.3;10.5;Não;Não;0;1
+5386;Mateus Fernandes;mateus.fernandes5386@exemplo.com;M;32;Canoas;Trimestral;109.90;10;1.6;2.4;Não;Sim;0;4
+5387;Letícia Silva;leticia.silva5387@exemplo.com;F;36;Novo Hamburgo;Trimestral;109.90;24;5.3;1.2;Não;Não;2;4
+5388;Patrícia Fernandes;patricia.fernandes5388@exemplo.com;F;38;Novo Hamburgo;Trimestral;109.90;31;0.8;7.6;Não;Não;1;3
+5389;Mariana Alves;mariana.alves5389@exemplo.com;F;30;Novo Hamburgo;Trimestral;109.90;11;3.8;9.8;Não;Não;0;4
+5390;Bruno Silva;bruno.silva5390@exemplo.com;M;53;Canoas;Mensal;129.90;36;3.7;7.6;Não;Não;0;3
+5391;Rafael Rodrigues;rafael.rodrigues5391@exemplo.com;M;38;Porto Alegre;Mensal;129.90;20;1.2;4.2;Não;Não;3;5
+5392;Priscila Lopes;priscila.lopes5392@exemplo.com;F;34;Novo Hamburgo;Mensal;129.90;31;1.3;2.5;Não;Sim;0;5
+5393;Vitor Alves;vitor.alves5393@exemplo.com;M;36;Gravataí;Mensal;129.90;35;3.6;7.8;Sim;Não;3;4
+5394;Eduardo Ribeiro;eduardo.ribeiro5394@exemplo.com;M;40;Canoas;Mensal;129.90;30;2.8;14.4;Não;Sim;0;4
+5395;Camila Barbosa;camila.barbosa5395@exemplo.com;F;22;Novo Hamburgo;Trimestral;109.90;34;3.3;11.8;Não;Sim;2;3
+5396;Bruno Lopes;bruno.lopes5396@exemplo.com;M;34;Viamão;Mensal;129.90;23;4.0;14.0;Sim;Sim;0;5
+5397;Diego Vieira;diego.vieira5397@exemplo.com;M;26;Canoas;Anual;89.90;25;0.0;5.2;Não;Não;4;4
+5398;Camila Rodrigues;camila.rodrigues5398@exemplo.com;F;23;Novo Hamburgo;Mensal;129.90;31;2.7;2.9;Não;Sim;0;3
+5399;Daniel Fernandes;daniel.fernandes5399@exemplo.com;M;30;Viamão;Trimestral;109.90;14;4.4;7.7;Sim;Sim;0;2
+5400;Daniel Carvalho;daniel.carvalho5400@exemplo.com;M;31;Novo Hamburgo;Anual;89.90;4;2.1;6.2;Não;Não;0;4
+5401;Fernanda Almeida;fernanda.almeida5401@exemplo.com;F;44;Porto Alegre;Mensal;129.90;20;2.6;6.7;Não;Sim;2;3
+5402;Gabriel Vieira;gabriel.vieira5402@exemplo.com;M;26;Porto Alegre;Mensal;129.90;29;3.5;12.2;Sim;Sim;1;4
+5403;Carolina Gomes;carolina.gomes5403@exemplo.com;F;49;Porto Alegre;Mensal;129.90;11;2.8;8.3;Sim;Não;0;3
+5404;Isabela Oliveira;isabela.oliveira5404@exemplo.com;F;45;Gravataí;Mensal;129.90;35;4.8;2.9;Não;Não;2;2
+5405;Pedro Costa;pedro.costa5405@exemplo.com;M;24;Porto Alegre;Mensal;129.90;29;3.2;2.1;Não;Sim;0;4
+5406;Ana Almeida;ana.almeida5406@exemplo.com;F;33;Gravataí;Trimestral;109.90;25;2.7;13.2;Não;Sim;0;3
+5407;Gabriela Lopes;gabriela.lopes5407@exemplo.com;F;43;Porto Alegre;Anual;89.90;32;3.4;0.6;Sim;Sim;3;3
+5408;Fernanda Oliveira;fernanda.oliveira5408@exemplo.com;F;24;Viamão;Mensal;129.90;36;3.5;3.7;Não;Sim;0;5
+5409;Gabriela Costa;gabriela.costa5409@exemplo.com;F;20;Viamão;Trimestral;109.90;1;4.1;11.4;Não;Sim;0;4
+5410;Carlos Santos;carlos.santos5410@exemplo.com;M;29;Viamão;Anual;89.90;10;2.5;2.3;Não;Não;0;5
+5411;Isabela Lima;isabela.lima5411@exemplo.com;F;20;Canoas;Mensal;129.90;31;1.8;10.9;Não;Não;0;3
+5412;Natália Barbosa;natalia.barbosa5412@exemplo.com;F;27;Canoas;Trimestral;109.90;21;3.4;12.1;Sim;Não;0;4
+5413;Ana Santos;ana.santos5413@exemplo.com;F;49;Novo Hamburgo;Mensal;129.90;9;2.8;3.6;Não;Sim;2;5
+5414;Patrícia Lopes;patricia.lopes5414@exemplo.com;F;36;Porto Alegre;Mensal;129.90;33;2.7;12.4;Não;Sim;0;3
+5415;Aline Pereira;aline.pereira5415@exemplo.com;F;52;Viamão;Mensal;129.90;18;1.9;7.4;Não;Não;1;4
+5416;Bruno Lima;bruno.lima5416@exemplo.com;M;35;Gravataí;Mensal;129.90;31;4.4;4.5;Não;Não;0;3
+5417;Larissa Gomes;larissa.gomes5417@exemplo.com;F;34;Gravataí;Trimestral;109.90;35;3.8;4.2;Não;Não;3;4
+5418;Bruna Ferreira;bruna.ferreira5418@exemplo.com;F;48;Porto Alegre;Anual;89.90;14;1.9;0.6;Não;Não;2;3
+5419;Felipe Martins;felipe.martins5419@exemplo.com;M;23;Novo Hamburgo;Mensal;129.90;17;1.2;2.0;Não;Não;1;4
+5420;Daniel Ferreira;daniel.ferreira5420@exemplo.com;M;35;Gravataí;Trimestral;109.90;17;3.7;14.3;Não;Não;0;3
+5421;Carlos Santos;carlos.santos5421@exemplo.com;M;29;Viamão;Anual;89.90;12;2.5;0.7;Sim;Não;0;4
+5422;Juliana Barbosa;juliana.barbosa5422@exemplo.com;F;29;Novo Hamburgo;Anual;89.90;6;3.4;1.7;Não;Sim;1;4
+5423;Letícia Silva;leticia.silva5423@exemplo.com;F;21;Novo Hamburgo;Mensal;129.90;14;0.8;3.2;Não;Não;0;4
+5424;Gustavo Souza;gustavo.souza5424@exemplo.com;M;16;Gravataí;Mensal;129.90;16;3.5;12.6;Não;Sim;0;5
+5425;Juliana Souza;juliana.souza5425@exemplo.com;F;25;Canoas;Anual;89.90;17;0.8;0.7;Não;Não;4;4
+5426;Bruna Vieira;bruna.vieira5426@exemplo.com;F;16;Gravataí;Trimestral;109.90;11;3.0;2.5;Não;Sim;0;3
+5427;Fernando Lopes;fernando.lopes5427@exemplo.com;M;43;Novo Hamburgo;Mensal;129.90;13;4.2;1.0;Não;Não;3;3
+5428;Eduardo Soares;eduardo.soares5428@exemplo.com;M;38;Viamão;Mensal;129.90;14;0.4;4.5;Não;Sim;4;4
+5429;Bruno Vieira;bruno.vieira5429@exemplo.com;M;36;Canoas;Anual;89.90;11;3.5;10.3;Não;Sim;1;4
+5430;Natália Soares;natalia.soares5430@exemplo.com;F;34;Porto Alegre;Mensal;129.90;8;1.6;14.3;Não;Não;1;5
+5431;Ana Oliveira;ana.oliveira5431@exemplo.com;F;41;Novo Hamburgo;Mensal;129.90;33;1.5;3.2;Sim;Não;1;3
+5432;Mateus Gomes;mateus.gomes5432@exemplo.com;M;35;Canoas;Mensal;129.90;31;3.9;12.4;Sim;Não;4;1
+5433;Rafael Oliveira;rafael.oliveira5433@exemplo.com;M;50;Porto Alegre;Mensal;129.90;22;3.5;5.3;Não;Não;0;1
+5434;Bruna Santos;bruna.santos5434@exemplo.com;F;31;Viamão;Trimestral;109.90;23;0.4;0.9;Não;Não;0;5
+5435;Aline Carvalho;aline.carvalho5435@exemplo.com;F;36;Canoas;Mensal;129.90;11;4.8;12.2;Não;Sim;0;4
+5436;Isabela Lopes;isabela.lopes5436@exemplo.com;F;26;Porto Alegre;Mensal;129.90;3;2.1;1.7;Sim;Não;2;4
+5437;Patrícia Alves;patricia.alves5437@exemplo.com;F;28;Viamão;Mensal;129.90;22;1.7;4.1;Não;Sim;3;5
+5438;Rafael Souza;rafael.souza5438@exemplo.com;M;41;Novo Hamburgo;Mensal;129.90;2;2.7;6.7;Não;Não;0;3
+5439;Rafael Souza;rafael.souza5439@exemplo.com;M;23;Canoas;Trimestral;109.90;25;2.3;3.8;Não;Sim;0;4
+5440;Bruna Pereira;bruna.pereira5440@exemplo.com;F;39;Viamão;Trimestral;109.90;23;2.9;10.7;Sim;Não;3;5
+5441;Natália Vieira;natalia.vieira5441@exemplo.com;F;36;Gravataí;Anual;89.90;24;3.7;2.1;Não;Sim;0;3
+5442;Isabela Gomes;isabela.gomes5442@exemplo.com;F;37;Canoas;Trimestral;109.90;6;2.2;4.5;Sim;Não;0;5
+5443;Vanessa Vieira;vanessa.vieira5443@exemplo.com;F;31;Canoas;Anual;89.90;24;1.7;8.8;Não;Não;1;4
+5444;Pedro Pereira;pedro.pereira5444@exemplo.com;M;23;Gravataí;Mensal;129.90;26;3.2;5.5;Não;Não;0;5
+5445;Patrícia Martins;patricia.martins5445@exemplo.com;F;17;Viamão;Mensal;129.90;29;2.2;1.7;Sim;Sim;0;4
+5446;Mariana Gomes;mariana.gomes5446@exemplo.com;F;37;Porto Alegre;Anual;89.90;6;0.6;5.2;Não;Sim;0;3
+5447;Fernando Lima;fernando.lima5447@exemplo.com;M;28;Porto Alegre;Anual;89.90;34;2.6;12.1;Não;Não;0;4
+5448;Carlos Souza;carlos.souza5448@exemplo.com;M;24;Viamão;Trimestral;109.90;1;1.1;3.3;Sim;Não;1;3
+5449;Patrícia Pereira;patricia.pereira5449@exemplo.com;F;33;Novo Hamburgo;Anual;89.90;9;4.4;2.5;Sim;Não;0;5
+5450;Mariana Carvalho;mariana.carvalho5450@exemplo.com;F;34;Gravataí;Anual;89.90;17;4.4;13.5;Não;Sim;0;4
+5451;Fernando Vieira;fernando.vieira5451@exemplo.com;M;33;Canoas;Mensal;129.90;17;4.1;10.6;Não;Não;0;4
+5452;Beatriz Silva;beatriz.silva5452@exemplo.com;F;30;Porto Alegre;Mensal;129.90;5;3.7;1.8;Não;Não;3;5
+5453;Vitor Costa;vitor.costa5453@exemplo.com;M;21;Novo Hamburgo;Anual;89.90;23;2.8;4.1;Não;Não;0;3
+5454;Aline Soares;aline.soares5454@exemplo.com;F;27;Viamão;Mensal;129.90;27;2.9;6.4;Não;Não;0;4
+5455;Diego Martins;diego.martins5455@exemplo.com;M;27;Porto Alegre;Trimestral;109.90;9;4.9;7.9;Sim;Não;1;4
+5456;Carolina Soares;carolina.soares5456@exemplo.com;F;20;Gravataí;Anual;89.90;2;1.7;11.9;Não;Não;0;4
+5457;Camila Almeida;camila.almeida5457@exemplo.com;F;33;Viamão;Mensal;129.90;6;6.0;9.1;Não;Não;0;4
+5458;Patrícia Lopes;patricia.lopes5458@exemplo.com;F;17;Viamão;Mensal;129.90;13;2.9;11.4;Não;Não;0;3
+5459;Mariana Ribeiro;mariana.ribeiro5459@exemplo.com;F;28;Gravataí;Mensal;129.90;20;2.8;1.3;Não;Sim;2;4
+5460;Fernando Souza;fernando.souza5460@exemplo.com;M;37;Viamão;Mensal;129.90;18;3.9;6.4;Não;Não;0;4
+5461;Gustavo Soares;gustavo.soares5461@exemplo.com;M;53;Canoas;Anual;89.90;9;2.7;11.5;Não;Não;0;5
+5462;Isabela Santos;isabela.santos5462@exemplo.com;F;23;Novo Hamburgo;Mensal;129.90;18;4.7;9.2;Não;Sim;0;5
+5463;Isabela Pereira;isabela.pereira5463@exemplo.com;F;33;Porto Alegre;Mensal;129.90;10;2.8;3.3;Não;Não;0;3
+5464;Larissa Alves;larissa.alves5464@exemplo.com;F;21;Porto Alegre;Mensal;129.90;20;3.3;8.7;Sim;Não;0;3
+5465;Daniel Rodrigues;daniel.rodrigues5465@exemplo.com;M;28;Novo Hamburgo;Mensal;129.90;9;6.0;11.1;Não;Não;0;4
+5466;Mateus Vieira;mateus.vieira5466@exemplo.com;M;23;Gravataí;Anual;89.90;31;2.7;8.9;Não;Não;0;3
+5467;Eduardo Martins;eduardo.martins5467@exemplo.com;M;30;Porto Alegre;Anual;89.90;29;0.8;13.3;Sim;Sim;0;1
+5468;Isabela Oliveira;isabela.oliveira5468@exemplo.com;F;43;Viamão;Trimestral;109.90;21;1.4;13.9;Não;Não;3;3
+5469;Mariana Carvalho;mariana.carvalho5469@exemplo.com;F;21;Gravataí;Trimestral;109.90;20;3.0;5.9;Não;Sim;0;5
+5470;Rodrigo Vieira;rodrigo.vieira5470@exemplo.com;M;32;Novo Hamburgo;Trimestral;109.90;19;3.8;1.1;Sim;Sim;1;3
+5471;Letícia Almeida;leticia.almeida5471@exemplo.com;F;35;Viamão;Mensal;129.90;11;1.8;9.6;Não;Não;0;3
+5472;Rodrigo Souza;rodrigo.souza5472@exemplo.com;M;31;Canoas;Mensal;129.90;15;0.0;7.5;Não;Não;1;5
+5473;Fernanda Almeida;fernanda.almeida5473@exemplo.com;F;25;Novo Hamburgo;Mensal;129.90;31;2.7;4.9;Não;Sim;0;3
+5474;Larissa Martins;larissa.martins5474@exemplo.com;F;38;Novo Hamburgo;Anual;89.90;5;3.6;6.4;Não;Não;0;3
+5475;Thiago Soares;thiago.soares5475@exemplo.com;M;23;Gravataí;Mensal;129.90;15;1.7;13.2;Não;Sim;0;1
+5476;Pedro Vieira;pedro.vieira5476@exemplo.com;M;16;Porto Alegre;Mensal;129.90;13;4.0;4.6;Não;Sim;0;3
+5477;Diego Soares;diego.soares5477@exemplo.com;M;38;Novo Hamburgo;Anual;89.90;22;5.1;11.1;Não;Não;4;4
+5478;Gustavo Carvalho;gustavo.carvalho5478@exemplo.com;M;55;Canoas;Trimestral;109.90;35;1.9;7.8;Não;Não;0;4
+5479;Isabela Martins;isabela.martins5479@exemplo.com;F;25;Gravataí;Trimestral;109.90;2;2.1;11.0;Não;Não;1;4
+5480;Ana Santos;ana.santos5480@exemplo.com;F;17;Novo Hamburgo;Mensal;129.90;19;2.4;14.3;Não;Não;0;5
+5481;Rafael Ribeiro;rafael.ribeiro5481@exemplo.com;M;50;Porto Alegre;Trimestral;109.90;3;3.9;10.1;Não;Não;1;2
+5482;Priscila Martins;priscila.martins5482@exemplo.com;F;41;Canoas;Mensal;129.90;12;3.1;2.6;Não;Sim;1;4
+5483;Eduardo Fernandes;eduardo.fernandes5483@exemplo.com;M;34;Novo Hamburgo;Mensal;129.90;31;3.5;14.6;Sim;Sim;2;3
+5484;Rodrigo Fernandes;rodrigo.fernandes5484@exemplo.com;M;51;Viamão;Mensal;129.90;27;0.8;10.6;Não;Não;0;2
+5485;Mariana Santos;mariana.santos5485@exemplo.com;F;21;Porto Alegre;Mensal;129.90;1;2.2;6.6;Não;Não;2;4
+5486;Mariana Oliveira;mariana.oliveira5486@exemplo.com;F;32;Porto Alegre;Mensal;129.90;6;2.8;14.3;Não;Não;1;4
+5487;Daniel Santos;daniel.santos5487@exemplo.com;M;29;Novo Hamburgo;Mensal;129.90;35;1.8;9.5;Não;Não;0;4
+5488;Ana Costa;ana.costa5488@exemplo.com;F;25;Porto Alegre;Mensal;129.90;17;2.9;7.0;Não;Não;1;3
+5489;Amanda Lopes;amanda.lopes5489@exemplo.com;F;39;Canoas;Trimestral;109.90;2;1.1;9.4;Não;Sim;0;3
+5490;Camila Carvalho;camila.carvalho5490@exemplo.com;F;38;Canoas;Mensal;129.90;14;2.7;14.8;Sim;Sim;0;3
+5491;Leonardo Santos;leonardo.santos5491@exemplo.com;M;40;Canoas;Trimestral;109.90;26;2.9;14.2;Não;Sim;4;4
+5492;Aline Almeida;aline.almeida5492@exemplo.com;F;26;Novo Hamburgo;Mensal;129.90;33;2.7;11.1;Não;Não;0;3
+5493;Mariana Martins;mariana.martins5493@exemplo.com;F;30;Porto Alegre;Trimestral;109.90;14;0.5;13.5;Sim;Não;1;3
+5494;Mariana Alves;mariana.alves5494@exemplo.com;F;23;Porto Alegre;Trimestral;109.90;36;1.0;9.7;Não;Não;3;4
+5495;Camila Martins;camila.martins5495@exemplo.com;F;28;Canoas;Anual;89.90;15;3.3;3.6;Não;Sim;1;4
+5496;Juliana Santos;juliana.santos5496@exemplo.com;F;33;Porto Alegre;Mensal;129.90;34;2.0;13.5;Não;Sim;0;5
+5497;João Soares;joao.soares5497@exemplo.com;M;58;Porto Alegre;Trimestral;109.90;28;2.5;6.1;Sim;Não;1;5
+5498;Natália Gomes;natalia.gomes5498@exemplo.com;F;43;Gravataí;Anual;89.90;14;3.5;2.9;Não;Não;0;3
+5499;Camila Rodrigues;camila.rodrigues5499@exemplo.com;F;51;Novo Hamburgo;Mensal;129.90;34;0.8;0.6;Não;Não;4;3
+5500;Pedro Almeida;pedro.almeida5500@exemplo.com;M;30;Porto Alegre;Anual;89.90;13;0.1;9.4;Não;Sim;0;3

@@ -1,0 +1,398 @@
+{
+  "compatibilityLevel": 1606,
+  "model": {
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"vw_PowerBI_Historico\",\"vw_PowerBI_Previsao\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "1"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "pt-BR",
+    "cultures": [
+      {
+        "name": "pt-BR",
+        "linguisticMetadata": {
+          "content": {
+            "Language": "en-US",
+            "Version": "1.0.0"
+          },
+          "contentType": "json"
+        }
+      }
+    ],
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "pt-BR",
+    "tables": [
+      {
+        "name": "vw_PowerBI_Historico",
+        "columns": [
+          {
+            "name": "AlunoID",
+            "dataType": "int64",
+            "lineageTag": "960980a0-fa06-411c-ab26-fde8347e3705",
+            "sourceColumn": "AlunoID",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Sexo",
+            "dataType": "string",
+            "lineageTag": "50a3adf8-1bb7-4ede-a8b1-ce56e8674aad",
+            "sourceColumn": "Sexo",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Idade",
+            "dataType": "int64",
+            "lineageTag": "e5e2f621-b4a8-4f3e-99e5-87ea0daa0f59",
+            "sourceColumn": "Idade",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Cidade",
+            "dataType": "string",
+            "lineageTag": "c1d6bd24-d60e-40b6-a654-faf17d71e7ef",
+            "sourceColumn": "Cidade",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Plano",
+            "dataType": "string",
+            "lineageTag": "775a5495-58cb-42dd-ae02-86c57a11e420",
+            "sourceColumn": "Plano",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "MesesMatriculado",
+            "dataType": "int64",
+            "lineageTag": "1b665a4f-8cef-49d8-b4b1-c767203e0ffd",
+            "sourceColumn": "MesesMatriculado",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "FrequenciaSemanal",
+            "dataType": "double",
+            "formatString": "0.0",
+            "lineageTag": "8fcf2160-d896-4ff3-88ca-8472dc0e756f",
+            "sourceColumn": "FrequenciaSemanal",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "DistanciaKm",
+            "dataType": "double",
+            "formatString": "0.0",
+            "lineageTag": "7d1e1712-d297-4d97-8ccb-c705303680b3",
+            "sourceColumn": "DistanciaKm",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "PersonalTrainer",
+            "dataType": "string",
+            "lineageTag": "a1ef15e3-4843-46f6-a386-523d88a5f986",
+            "sourceColumn": "PersonalTrainer",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "AulasColetivas",
+            "dataType": "string",
+            "lineageTag": "d3dadcc7-128d-4164-825c-e4ae8a22dfc4",
+            "sourceColumn": "AulasColetivas",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "AtrasosPagamento",
+            "dataType": "int64",
+            "lineageTag": "7c651594-441b-43bb-9867-fa2f6d0077c9",
+            "sourceColumn": "AtrasosPagamento",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Avaliacao",
+            "dataType": "int64",
+            "lineageTag": "9cd523ff-02f9-4b14-bd41-07164d296c92",
+            "sourceColumn": "Avaliacao",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Cancelou",
+            "dataType": "int64",
+            "lineageTag": "aa4f991c-6fd4-4753-b82a-3edfb390f5ce",
+            "sourceColumn": "Cancelou",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Situacao",
+            "dataType": "string",
+            "lineageTag": "16ee6fb1-2490-4987-b8bb-c8fa5db4720e",
+            "sourceColumn": "Situacao",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "FaixaFrequencia",
+            "dataType": "string",
+            "lineageTag": "67bf18f1-02f9-4f01-a222-a0f684eb614a",
+            "sourceColumn": "FaixaFrequencia",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "FaixaIdade",
+            "dataType": "string",
+            "lineageTag": "14116bec-60d0-488e-823e-768c93db1ddf",
+            "sourceColumn": "FaixaIdade",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "cfb492b5-bde4-44fa-8f38-e156571e36dc",
+        "measures": [
+          {
+            "name": "Total Alunos",
+            "expression": "COUNTROWS('vw_PowerBI_Historico')",
+            "formatString": "#,0",
+            "lineageTag": "f3169465-f39c-452a-9743-a9472db94b1c"
+          },
+          {
+            "name": "Cancelaram",
+            "expression": "SUM('vw_PowerBI_Historico'[Cancelou])",
+            "formatString": "#,0",
+            "lineageTag": "55c82050-be42-44f3-9941-c20456425c72"
+          },
+          {
+            "name": "Taxa Cancelamento",
+            "expression": "DIVIDE([Cancelaram], [Total Alunos])",
+            "formatString": "0.0%",
+            "lineageTag": "d181dee4-bf60-424d-adf7-ae9da794955e"
+          },
+          {
+            "name": "Avaliacao Media",
+            "expression": "AVERAGE('vw_PowerBI_Historico'[Avaliacao])",
+            "formatString": "0.0",
+            "lineageTag": "c63a9311-f096-4ab2-abdd-ede426124888"
+          },
+          {
+            "name": "Frequencia Media",
+            "expression": "AVERAGE('vw_PowerBI_Historico'[FrequenciaSemanal])",
+            "formatString": "0.0",
+            "lineageTag": "a191e6e9-9d95-41ce-91f9-899bb561eee4"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "vw_PowerBI_Historico",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Fonte = Sql.Database(\"localhost\", \"AcademiaML\"),",
+                "    Dados = Fonte{[Schema=\"dbo\",Item=\"vw_PowerBI_Historico\"]}[Data]",
+                "in",
+                "    Dados"
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "vw_PowerBI_Previsao",
+        "columns": [
+          {
+            "name": "AlunoID",
+            "dataType": "int64",
+            "lineageTag": "d18fb73e-ebf9-4aff-b5ee-9d8affd76db6",
+            "sourceColumn": "AlunoID",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Nome",
+            "dataType": "string",
+            "lineageTag": "89f47614-660c-4513-9435-a1a4039a4c66",
+            "sourceColumn": "Nome",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Email",
+            "dataType": "string",
+            "lineageTag": "217d25ca-97fd-4d91-a8d6-0b12f94a89b7",
+            "sourceColumn": "Email",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Sexo",
+            "dataType": "string",
+            "lineageTag": "b68aa651-3457-41b5-8942-1de67408fd36",
+            "sourceColumn": "Sexo",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Idade",
+            "dataType": "int64",
+            "lineageTag": "8c6a2354-a208-4238-86f8-53a73ff8220b",
+            "sourceColumn": "Idade",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Cidade",
+            "dataType": "string",
+            "lineageTag": "49b2cfa9-3cf9-4b0e-bae7-d962e4a83a85",
+            "sourceColumn": "Cidade",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Plano",
+            "dataType": "string",
+            "lineageTag": "7a249473-aca5-454c-a404-8dc119676bdb",
+            "sourceColumn": "Plano",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "MesesMatriculado",
+            "dataType": "int64",
+            "lineageTag": "dc9ae652-a685-460f-955c-d52d53996a1e",
+            "sourceColumn": "MesesMatriculado",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "FrequenciaSemanal",
+            "dataType": "double",
+            "formatString": "0.0",
+            "lineageTag": "196893af-12aa-4bb1-b93f-62fed2abb507",
+            "sourceColumn": "FrequenciaSemanal",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "DistanciaKm",
+            "dataType": "double",
+            "formatString": "0.0",
+            "lineageTag": "890125e4-c711-4ea8-a01b-e8d9d542d120",
+            "sourceColumn": "DistanciaKm",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "PersonalTrainer",
+            "dataType": "string",
+            "lineageTag": "c9b40a57-c03d-41d8-8bb0-f5d8a5a656c2",
+            "sourceColumn": "PersonalTrainer",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "AulasColetivas",
+            "dataType": "string",
+            "lineageTag": "a3c6a500-0de8-46da-842e-6dbf9f7a4e50",
+            "sourceColumn": "AulasColetivas",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "AtrasosPagamento",
+            "dataType": "int64",
+            "lineageTag": "01567094-97fe-47f4-8753-499565b8be41",
+            "sourceColumn": "AtrasosPagamento",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Avaliacao",
+            "dataType": "int64",
+            "lineageTag": "5b40b6e2-03b6-4d52-9d97-e140a6e62f3a",
+            "sourceColumn": "Avaliacao",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Previsao",
+            "dataType": "int64",
+            "lineageTag": "3dd9c919-395b-48dd-b8ce-cd6e78d10fb7",
+            "sourceColumn": "Previsao",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Probabilidade",
+            "dataType": "double",
+            "formatString": "0.0%",
+            "lineageTag": "35f7e5d1-78bf-4a1c-a03a-ad7ebc998bbc",
+            "sourceColumn": "Probabilidade",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "FaixaRisco",
+            "dataType": "string",
+            "lineageTag": "d4616bf0-ca37-437d-9ba4-6803afe9bb2a",
+            "sourceColumn": "FaixaRisco",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "CancelouReal",
+            "dataType": "int64",
+            "lineageTag": "f8980b0d-66a1-4d21-86ee-f1e80ff8fd35",
+            "sourceColumn": "CancelouReal",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "FaixaFrequencia",
+            "dataType": "string",
+            "lineageTag": "c6f362be-a4db-4ec7-9408-f43c1b281a0b",
+            "sourceColumn": "FaixaFrequencia",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "c254aeaf-08fa-4719-a181-1e997b29465a",
+        "measures": [
+          {
+            "name": "Alunos Analisados",
+            "expression": "COUNTROWS('vw_PowerBI_Previsao')",
+            "formatString": "#,0",
+            "lineageTag": "22a9e1a2-8794-44b8-8cc5-634459fbc57e"
+          },
+          {
+            "name": "Alunos Alto Risco",
+            "expression": "CALCULATE(COUNTROWS('vw_PowerBI_Previsao'), 'vw_PowerBI_Previsao'[FaixaRisco] = \"Alto\")",
+            "formatString": "#,0",
+            "lineageTag": "95a95858-22f7-489e-93f7-d2560037a9bf"
+          },
+          {
+            "name": "Previstos Cancelar",
+            "expression": "SUM('vw_PowerBI_Previsao'[Previsao])",
+            "formatString": "#,0",
+            "lineageTag": "4d14f64e-b3c9-41bc-bac0-6c3736899d43"
+          },
+          {
+            "name": "Acuracia Modelo",
+            "expression": "AVERAGEX('vw_PowerBI_Previsao', IF('vw_PowerBI_Previsao'[Previsao] = 'vw_PowerBI_Previsao'[CancelouReal], 1, 0))",
+            "formatString": "0.0%",
+            "lineageTag": "2c57fc2d-3643-4a8c-b0dd-2134edfdbcc0"
+          },
+          {
+            "name": "Probabilidade Media",
+            "expression": "AVERAGE('vw_PowerBI_Previsao'[Probabilidade])",
+            "formatString": "0.0%",
+            "lineageTag": "81cc8d3d-f756-441c-8d8e-367bb40475ea"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "vw_PowerBI_Previsao",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Fonte = Sql.Database(\"localhost\", \"AcademiaML\"),",
+                "    Dados = Fonte{[Schema=\"dbo\",Item=\"vw_PowerBI_Previsao\"]}[Data]",
+                "in",
+                "    Dados"
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+// =====================================================================
+// Script 03: consulta de previsão (DMX) no modelo "Arvore Cancelamento".
+// É a mesma consulta que o designer "Previsão de Modelo de Mineração"
+// do Visual Studio monta quando você liga o modelo à tabela AlunosNovos.
+// Se algum nome não bater, copie o DMX gerado pelo próprio designer
+// (botão de alternar para a exibição "Consulta").
+//
+// [Academia ML] = nome da Fonte de Dados criada no projeto do Visual Studio.
+// =====================================================================
+SELECT
+  t.[AlunoID],
+  t.[Nome],
+  t.[Email],
+  t.[Plano],
+  Predict([Arvore Cancelamento].[Cancelou])               AS Previsao,
+  PredictProbability([Arvore Cancelamento].[Cancelou], 1) AS Probabilidade
+FROM
+  [Arvore Cancelamento]
+PREDICTION JOIN
+  OPENQUERY([Academia ML], 'SELECT * FROM dbo.AlunosNovos') AS t
+ON  [Arvore Cancelamento].[Idade]              = t.[Idade]
+AND [Arvore Cancelamento].[Sexo]               = t.[Sexo]
+AND [Arvore Cancelamento].[Cidade]             = t.[Cidade]
+AND [Arvore Cancelamento].[Plano]              = t.[Plano]
+AND [Arvore Cancelamento].[Valor Mensal]       = t.[ValorMensal]
+AND [Arvore Cancelamento].[Meses Matriculado]  = t.[MesesMatriculado]
+AND [Arvore Cancelamento].[Frequencia Semanal] = t.[FrequenciaSemanal]
+AND [Arvore Cancelamento].[Distancia Km]       = t.[DistanciaKm]
+AND [Arvore Cancelamento].[Personal Trainer]   = t.[PersonalTrainer]
+AND [Arvore Cancelamento].[Aulas Coletivas]    = t.[AulasColetivas]
+AND [Arvore Cancelamento].[Atrasos Pagamento]  = t.[AtrasosPagamento]
+AND [Arvore Cancelamento].[Avaliacao]          = t.[Avaliacao]
